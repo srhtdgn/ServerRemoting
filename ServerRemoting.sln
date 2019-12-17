@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28010.2016
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServerRemoting", "ServerRemoting\ServerRemoting.csproj", "{DB1842BD-0F06-41D2-A286-A4E497607043}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoteObject", "RemoteObject\RemoteObject.csproj", "{366901E6-C564-43F1-96AD-7B63A47AE24D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{DB1842BD-0F06-41D2-A286-A4E497607043}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DB1842BD-0F06-41D2-A286-A4E497607043}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DB1842BD-0F06-41D2-A286-A4E497607043}.Release|Any CPU.Build.0 = Release|Any CPU
+		{366901E6-C564-43F1-96AD-7B63A47AE24D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{366901E6-C564-43F1-96AD-7B63A47AE24D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{366901E6-C564-43F1-96AD-7B63A47AE24D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{366901E6-C564-43F1-96AD-7B63A47AE24D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
